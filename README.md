@@ -1,7 +1,7 @@
 ## Домены
 
-* http://api.B0rdiplom.students.nomoredomains.monster
-* Домен фронтенда: https://B0rDiplom.students.nomoredomains.monster'
+* https://api.diplom.movies.nomoreparties.sbs
+* Домен фронтенда: https://diplom.movies.nomoreparties.sbs'
 
 
 ## Ссылки
